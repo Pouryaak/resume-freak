@@ -1,0 +1,9 @@
+.contHeader {
+    display: flex;
+    padding-bottom: 15px;
+    border-bottom: 2px solid whitesmoke;
+}
+.contHeader > div {
+    margin-right: 30px;
+    font-weight: 400;
+} 

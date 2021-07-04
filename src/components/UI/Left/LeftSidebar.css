@@ -1,0 +1,9 @@
+.leftSidebar {
+    flex: 0.4;
+    top: 0;
+    position: sticky;
+    height: 100vh;
+    box-shadow: 0 0 0.5cm gray;
+    width: 500px !important;
+    overflow-y: scroll;
+}

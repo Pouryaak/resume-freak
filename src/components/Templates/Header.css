@@ -1,0 +1,23 @@
+.header {
+    height: 170px;
+    background-color: #462de3;
+    color: white;
+    display: flex;
+    padding-left: 40px;
+    padding-top: 40px;
+}
+.header__info {
+    margin-left: 20px;
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+}
+
+.header__infoName{
+    font-size: 30px;
+    margin-bottom: 10px;
+    font-family: 'Racing Sans One', cursive;
+}
+.header__infoPosition{
+    font-style: italic;
+}
